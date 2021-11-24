@@ -1,0 +1,17 @@
+{
+  "name": "ruco-bot",
+  "version": "1.0.0",
+  "description": "Mohr",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mohr",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/collection": "^0.3.2",
+    "discord.js": "^13.1.0",
+    "fs": "^0.0.1-security",
+    "ms": "^2.1.3"
+  }
+}

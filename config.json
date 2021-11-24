@@ -1,0 +1,7 @@
+{
+    "embedColors": {
+        "success": "#2bad3e",
+        "inform": "#007eff",
+        "error": "#ff0000"
+    }
+}
